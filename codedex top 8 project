@@ -1,0 +1,88 @@
+<!-- Write code below 💖 -->
+
+<!DOCTYPE html>
+ <html>
+   <head>
+     <style>
+  body {
+    width: 85%;
+    margin: auto;
+  }
+
+  h1 {
+    text-align: left;
+  }
+
+  img {
+    border: 3px solid blue;
+  }
+
+  #top-8-wrapper {
+    text-align: center;
+  }
+
+  .friend-card {
+    display: inline-block;
+    margin: 1px;
+    text-align: center;
+  }
+
+  .friend-name {
+    color: blue;
+  }
+</style>
+</head>
+  <body>
+    <div id="top-8-wrapper">
+      <h1 >Alphabets</h1>
+    <div class="top-8-row">
+      <div class="card">
+       <h2 class="name">A</h2>
+       <img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/Latin_letter_A.svg"alt="Aa" height=50 width 50>
+      </div>
+
+      <div class="card">
+        <div class="card">
+       <h2 class="name">B</h2>
+       <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Latin_letter_B.svg" alt="Bb" height=50 width 50>
+      </div>
+
+      <div class="card">
+       <h2 class="name">C</h2>
+       <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Latin_letter_C.svg" alt="Cc" height=50 width 50>
+      </div>
+
+      <div class="card">
+        <div class="card">
+       <h2 class="name">D</h2>
+       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_Vv9hkVg0HTEfHQ_5qzfxl_5Ny5yAT95SNw&s"alt="Dd" height=50 width 50>
+      </div>
+
+    </div>
+
+    <div class="top-8-row">
+      <div class="card">
+        <div class="card">
+       <h2 class="name">E</h2>
+       <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Latin_letter_E.svg"alt="Ee" height=50 width 50>
+      </div>
+      <div class="friend-card">
+        <div class="card">
+       <h2 class=" name">F</h2>
+       <img src="https://upload.wikimedia.org/wikipedia/commons/1/16/Latin_letter_F.svg"alt="Ff" height=50 width 50>
+      </div>
+      <div class="card">
+        <div class="card">
+       <h2 class=" name">G</h2>
+       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Latin_letter_G.svg/1200px-Latin_letter_G.svg.png"alt="Gg" height=50 width 50>
+      </div>
+      <div class="card">
+        <div class="card">
+       <h2 class=" name">H</h2>
+       <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Latin_letter_H.svg"alt="Hh" height=50 width 50>
+      </div>
+    </div>
+</body>
+</html>
+    
+
